@@ -1,3 +1,6 @@
 [submodule "microTC"]
 	path = microTC
 	url = https://github.com/INGEOTEC/microTC.git
+[submodule "reveal.js"]
+	path = reveal.js
+	url = https://github.com/hakimel/reveal.js.git
